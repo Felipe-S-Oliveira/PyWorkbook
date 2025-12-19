@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
-[![Read in Portuguese](https://img.shields.io/badge/Leia_em-Português-yellow)](./README.pt-br.md)
+[![Read in Portuguese](https://img.shields.io/badge/Leia_em-Português-yellow)](./README_pt-br.md)
 
 ## 🎯 The Problem
 During programming courses, students often have to solve dozens of small coding challenges per class. The traditional approach creates a clutter of files (`ex01.py`, `ex02.py`, `test.py`...) or forces the use of Notebooks, which distances the student from real-world software development environments.
