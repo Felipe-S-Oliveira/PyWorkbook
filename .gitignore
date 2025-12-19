@@ -1,0 +1,9 @@
+# main file used to test features
+main.py
+
+# python virtual enviroment used to test features
+.venv/
+
+# python caches files and directories
+__pycache__/
+*.py[cod]

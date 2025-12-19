@@ -1,0 +1,11 @@
+// Snippet para base de uma nova função do framework PyWorkbook
+
+{
+    "newExcercise":{
+        "scope": "python,python3",
+        "prefix": ["rgf","reg-function"],
+        "body": ["@regFunction('${1:function_title}')\ndef ${2:function_name}():${3}"
+        ],
+        "description": "Gera a base para criação de uma nova função que poderá ser executada no menu de funções do PyWorkbook"
+    }
+}
